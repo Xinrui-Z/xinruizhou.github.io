@@ -1,4 +1,4 @@
-
+### Publications
  **Journal & Preprint**
 - Shexiang Jiang and **[Xinrui Zhou](#)** ✉. [DWSC-YOLO: A Lightweight Ship Detector of SAR Images Based on Deep Learning](https://www.mdpi.com/2077-1312/10/11/1699). Journal of Marine Science and Engineering, 2022
 - Hongsheng Wang, **[Xinrui Zhou](#)**, Feng Lin. [NOVA-3D: Non-overlapped Views for 3D Anime Character Reconstruction](http://arxiv.org/abs/2405.12505). Arxiv, 2024
